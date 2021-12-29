@@ -1,1 +1,9 @@
-# Fake_News_Detection_NLP
+# Fake News Detection NLP
+
+## Heirarchy
+
+## Purpose
+
+## Approach
+
+## Links
